@@ -26,7 +26,7 @@ My codes can be found in the following files.
 3. predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
 4. predict.m - Neural network prediction function
 
-## Exersize 4
+## Exersise 4
 
 1. sigmoidGradient.m - Compute the gradient of the sigmoid function
 2. randInitializeWeights.m - Randomly initialize weights
