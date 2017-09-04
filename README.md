@@ -1,6 +1,6 @@
 # Coursera
 
-This repository contains some of the homework I did for coursera courses I've taken.
+This repository contains some of the homework I did for coursera Machine Learning Course.
 
 My codes can be found in the following files.
 
@@ -26,4 +26,15 @@ My codes can be found in the following files.
 3. predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
 4. predict.m - Neural network prediction function
 
+## Exersize 4
 
+1. sigmoidGradient.m - Compute the gradient of the sigmoid function
+2. randInitializeWeights.m - Randomly initialize weights
+3. nnCostFunction.m - Neural network cost function
+
+## Exercise 5
+
+1. linearRegCostFunction.m - Regularized linear regression cost function
+2. learningCurve.m - Generates a learning curve
+3. polyFeatures.m - Maps data into polynomial feature space
+4. validationCurve.m - Generates a cross validation curve
