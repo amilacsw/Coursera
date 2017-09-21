@@ -26,7 +26,7 @@ My codes can be found in the following files.
 3. predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
 4. predict.m - Neural network prediction function
 
-## Exersise 4
+## Exercise 4
 
 1. sigmoidGradient.m - Compute the gradient of the sigmoid function
 2. randInitializeWeights.m - Randomly initialize weights
@@ -38,3 +38,10 @@ My codes can be found in the following files.
 2. learningCurve.m - Generates a learning curve
 3. polyFeatures.m - Maps data into polynomial feature space
 4. validationCurve.m - Generates a cross validation curve
+
+## Exercise 6
+
+1. gaussianKernel.m - Gaussian kernel for SVM
+2. dataset3Params.m - Parameters to use for Dataset 3
+3. processEmail.m - Email preprocessing
+4. emailFeatures.m - Feature extraction from emails
