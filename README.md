@@ -45,3 +45,12 @@ My codes can be found in the following files.
 2. dataset3Params.m - Parameters to use for Dataset 3
 3. processEmail.m - Email preprocessing
 4. emailFeatures.m - Feature extraction from emails
+
+## Exercise 7
+
+1. pca.m - Perform principal component analysis
+2. projectData.m - Projects a data set into a lower dimensional space 
+3. recoverData.m - Recovers the original data from the projection
+4. findClosestCentroids.m-Findclosestcentroids(usedinK-means)
+5. computeCentroids.m - Compute centroid means (used in K-means)
+6. kMeansInitCentroids.m - Initialization for K-means centroids
