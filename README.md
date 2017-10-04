@@ -54,3 +54,9 @@ My codes can be found in the following files.
 4. findClosestCentroids.m-Findclosestcentroids(usedinK-means)
 5. computeCentroids.m - Compute centroid means (used in K-means)
 6. kMeansInitCentroids.m - Initialization for K-means centroids
+
+## Exercise 8
+
+1. estimateGaussian.m - Estimate the parameters of a Gaussian dis- tribution with a diagonal covariance matrix
+2. selectThreshold.m - Find a threshold for anomaly detection
+3. cofiCostFunc.m - Implement the cost function for collaborative fil- tering
